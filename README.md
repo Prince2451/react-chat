@@ -1,3 +1,8 @@
+## Installation
+
+Install react dependencies with command `npm install`
+Install node dependencies by shifting to server directory `cd server` and then `npm install` to install dependencies
+
 ## Available Scripts
 
 In the project directory, you can run:
