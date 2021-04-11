@@ -1,0 +1,18 @@
+.chats-container {
+  background-color: var(--dark-blue);
+  color: var(--light);
+  min-height: 90vh;
+  position: relative;
+}
+.chats {
+  height: 100%;
+}
+.chats-selected-username {
+  background-color: transparent;
+  font-weight: bold;
+  font-size: 1.2em;
+  text-transform: capitalize;
+}
+.chat-message-container{
+  margin-bottom: 20px;
+}

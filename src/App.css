@@ -1,0 +1,12 @@
+.layout {
+  background-color: var(--dark);
+}
+.layout-header{
+  background-color: var(--dark-blue);
+  
+  text-align: center;
+}
+.layout-header-content{
+  color: var(--light);
+  font-weight: bold;
+}

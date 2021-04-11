@@ -1,0 +1,17 @@
+.chat-messages {
+  display: block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 30px;
+  background-color: var(--light-white);
+}
+.chat-messages-title {
+  color: var(--dark-blue);
+  font-size: 0.8em;
+  text-transform: capitalize;
+  display: block;
+}
+.chat-messages-description {
+  color: var(--dark);
+  display: block;
+}

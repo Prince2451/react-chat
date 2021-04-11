@@ -1,0 +1,19 @@
+.chat-users-chatlink {
+  display: block;
+  width: 100%;
+}
+.chat-users-userlist {
+  box-sizing: border-box;
+  padding: 5px 30px;
+  display: block;
+}
+.chat-users-title {
+  color: var(--light);
+  font-weight: bold;
+  font-size: 1.2em;
+  text-transform: capitalize;
+  display: block;
+}
+.chat-users-container{
+  position: relative;
+}

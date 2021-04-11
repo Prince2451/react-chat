@@ -1,0 +1,26 @@
+.send-message-container {
+  position: fixed;
+  bottom: 0;
+  display: flex;
+  width: calc(100% - 300px);
+}
+.send-message-form {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.send-message-input {
+  width: 100%;
+}
+.send-message-form-item {
+  margin: 0 !important;
+}
+.send-message-btn{
+  width: 100%;
+}
+.send-message-form-item:nth-child(1){
+  width: 80%;
+}
+.send-message-form-item:nth-child(2){
+  width: 20%;
+}
